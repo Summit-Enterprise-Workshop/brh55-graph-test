@@ -29,6 +29,8 @@ subscription:
          path: /
 
 ## Enter Workshop Module Configs Below
+persisted_queries:
+  enabled: true
 
 telemetry:
   apollo:
